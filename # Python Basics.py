@@ -87,3 +87,22 @@ result_label = tk.Label(game_frame, text="")
 result_label.pack(pady=10)
 
 root.mainloop()
+# To export this file to your GitHub repository, you can use the GitHub web interface or Git command line.
+# Example using Git (run these commands in your terminal):
+
+# 1. Initialize git (if not already done)
+#    git init
+
+# 2. Add your file
+#    git add "# Python Basics.py"
+
+# 3. Commit your changes
+#    git commit -m "Add guessing number game using tkinter"
+
+# 4. Add your GitHub repository as a remote (replace URL with your repo)
+#    git remote add origin https://github.com/yourusername/your-repo.git
+
+# 5. Push to GitHub
+#    git push -u origin main
+
+# Alternatively, upload the file directly using the GitHub website.
